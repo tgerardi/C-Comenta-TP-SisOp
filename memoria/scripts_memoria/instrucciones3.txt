@@ -1,0 +1,4 @@
+SET AX 1
+SET PC 3
+SET CX 2
+SET DX 1
